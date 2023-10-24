@@ -1,0 +1,24 @@
+Thank you for downloading KeiHUD!
+
+VERSION: Release v1.0
+
+Credits -
+
+Hypnotize: Base of the HUD (SunsetHUD)
+forest: Original concept for darkmode killfeed
+Verify: Assisting in concepting the hud
+Riley (me): Creating the HUD
+
+Features include:
+
+Darkmode Killfeed (with all icons fixed)
+Optimized Regular mode and minmode positions
+Appealing blue colourscheme
+
+Looks great on: 1600x900, 1920x1080
+
+Full native support on Linux should still exist... If it doesn't, message me!
+
+Warning: 16:10 AND 4:3 ARE NOT NATIVELY SUPPORTED.
+
+Bug report? Suggestion? Send me a DM on Discord.
